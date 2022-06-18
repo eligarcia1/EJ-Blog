@@ -28,7 +28,15 @@ I really like that this tool goes really in depth into hazards down to the stree
 ![image](https://user-images.githubusercontent.com/89550308/174424613-12947729-9a2b-4502-8896-1e0168c7ebcf.png)
 Source: CEJA
 
-The map above shows 
+The map above shows deep East Oakland off of Hegenberger. I have a personal connection to the area as I lived there right be Coliseum BART Station. The cumulative impact tool is great for maybe beginning to narrowdown some areas that need intervention, but I believe that this tool also misses a lot of local contexts and can sometimes seem minimizing to the communities that suffer from the highest scores of cumulative impact.
+
+I believe local contect matters and that cumulative impact tools sometimes can seem daunting to not only planners, but community members themselves.
+
+The quantifying of suffering is a bit dark. 
+
+The quantifying of suffering without an intervention strategy/method is even darker.
+
+### Mapping for Environmental Justice
 
 
 

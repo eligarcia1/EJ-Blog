@@ -2,8 +2,11 @@
 
 This blog will explore different maps of the built environment, and how these maps can be improved and used as social justice interventions.
 
-My research interest is on accessibility to green spaces in Oakland. Minimal research has been done on accessibility to green spaces in this area,
-however
+My research interest is on accessibility to green spaces in Oakland. Minimal research has been done on accessibility to green spaces in Oakland, most environmental justice maps have focused on pollution burden in the area. 
+
+I want to discuss how the built environment's relation to helping mitigate environmental hazards like pollution, but also other ways the built environemnt affects community health and the importance of access to green spaces.
+
+Access to green spaces for marginalized communities is both a social justice and environmental justice intervention that helps community health and wellbeing.
 
 ### Markdown
 

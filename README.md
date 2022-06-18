@@ -18,6 +18,7 @@ CalEnviroScreen has been updated to CalEnviroScreen 4.0 since this map has been 
 
 This map describes cumulative impacts as "a technical term to describe the lived reality in many low-income communities and communities of color." These impacts include economic and social stress and well as pollution burden.
 
+![image](https://user-images.githubusercontent.com/89550308/174424459-0616bbfa-b0e2-4c21-9069-dc42f8972d7d.png)
 
 
 

@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Access to Green Spaces through an Environmental Justice Lens
 
 You can use the [editor on GitHub](https://github.com/eligarcia1/EJ-Blog/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 

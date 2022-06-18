@@ -46,7 +46,11 @@ Environmental justice interventions need to be community based and relevant.
 
 For GIS and mapping tools to help communities make decisions, I believe there needs to be direction and a plan to advocate for. 
 
-Having an environmental justice lens 
+Having an environmental justice lens for community change can be powerful, and also can create lots of excitement, optimism, and renewed community investment.
+
+I believe that there should be optimism in mapping for environmental justice interventions along with the community context.
+
+### 
 
 
 ```markdown

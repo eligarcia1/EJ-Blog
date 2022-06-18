@@ -54,7 +54,11 @@ I believe that there should be optimism in mapping for environmental justice int
 
 ### Next Steps
 
-I will be creating an 
+I will be creating a map that analyses the accessibility to green spaces in Oakland.
+
+Some missing parts of the cumulative impacts maps were about the actual built environment. How are the areas zoned? What is the history of this built environemnt? Where are the green spaces? How can communties intervene with cumulative impacts? Who _really_ are the people that live there (some local narratives)?
+
+
 
 
 ```markdown

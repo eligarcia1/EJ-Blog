@@ -10,7 +10,7 @@ I want to discuss how the built environment's relation to helping mitigate envir
 
 Access to green spaces for marginalized communities is both a social justice and environmental justice intervention that helps community health and wellbeing.
 
-### Cumulative Justice Map of Oakland
+### Cumulative Impact Map of Oakland
 
 ![image](https://user-images.githubusercontent.com/89550308/174424487-4b0580cf-8cee-4e20-ad84-f6c3e52bc004.png)
 Source: CEJA

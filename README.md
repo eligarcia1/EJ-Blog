@@ -11,6 +11,7 @@ Access to green spaces for marginalized communities is both a social justice and
 ### Cumulative Justice Map of Oakland
 
 ![image](https://user-images.githubusercontent.com/89550308/174424487-4b0580cf-8cee-4e20-ad84-f6c3e52bc004.png)
+Source: CEJA
 
 This map of Oakland uses an analysis of CalEnviroScreen 1.0
 CalEnviroScreen has been updated to CalEnviroScreen 4.0 since this map has been made.
@@ -18,6 +19,7 @@ CalEnviroScreen has been updated to CalEnviroScreen 4.0 since this map has been 
 This map describes cumulative impacts as "a technical term to describe the lived reality in many low-income communities and communities of color." These impacts include economic and social stress and well as pollution burden.
 
 ![image](https://user-images.githubusercontent.com/89550308/174424459-0616bbfa-b0e2-4c21-9069-dc42f8972d7d.png)
+Source: CEJA
 
 
 

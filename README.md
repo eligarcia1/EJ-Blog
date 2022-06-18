@@ -65,7 +65,7 @@ For the local knowledge I will conduct a handful of interviews but also gather d
 To find the quantifiable access to green spaces in Oakland I will use the Analysis tool in ArcGIS. I will summarrize the areas around green spaces by how accessible they are by walking. 
 
 ```markdown
-The way to summarize this infor in ArcGIS requires me to: 
+The way to summarize this information in ArcGIS requires me to: 
 1. Aggregate Points calculates statistics about points that fall within specified areas.
 2. Join Features transfers attributes from one layer or table to another based on spatial and attribute relationships.
 3. Summarize Nearby calculates statistics for features and their attributes that are within a specified distance.

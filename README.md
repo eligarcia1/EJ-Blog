@@ -10,6 +10,8 @@ Access to green spaces for marginalized communities is both a social justice and
 
 ### Markdown
 
+<img style="display: block;-webkit-user-select: none;margin: auto;background-color: hsl(0, 0%, 90%);transition: background-color 300ms;" src="https://caleja.org/wp-content/uploads/2012/09/Oakland-CI-map.jpg">
+
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown

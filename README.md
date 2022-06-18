@@ -21,7 +21,11 @@ This map describes cumulative impacts as "a technical term to describe the lived
 ![image](https://user-images.githubusercontent.com/89550308/174424459-0616bbfa-b0e2-4c21-9069-dc42f8972d7d.png)
 Source: CEJA
 
+This tool was made in 2012, and has inspired many tools that have come along afterwards including ones made for future versions of CalEnviroScreen.
+I really like that this tool goes really in depth into hazards down to the street level. 
 
+![image](https://user-images.githubusercontent.com/89550308/174424613-12947729-9a2b-4502-8896-1e0168c7ebcf.png)
+Source: CEJA
 
 ```markdown
 Syntax highlighted code block

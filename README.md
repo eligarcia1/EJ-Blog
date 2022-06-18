@@ -1,4 +1,6 @@
-## Access to Green Spaces through an Environmental Justice Lens
+# Access to Green Spaces through an Environmental Justice Lens
+
+### Introduction
 
 This blog will explore different maps of the built environment, and how these maps can be improved and used as social justice interventions.
 
@@ -50,7 +52,9 @@ Having an environmental justice lens for community change can be powerful, and a
 
 I believe that there should be optimism in mapping for environmental justice interventions along with the community context.
 
-### 
+### Next Steps
+
+I will be creating an 
 
 
 ```markdown

@@ -1,8 +1,9 @@
 ## Access to Green Spaces through an Environmental Justice Lens
 
-You can use the [editor on GitHub](https://github.com/eligarcia1/EJ-Blog/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+This blog will explore different maps of the built environment, and how these maps can be improved and used as social justice interventions.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+My research interest is on accessibility to green spaces in Oakland. Minimal research has been done on accessibility to green spaces in this area,
+however
 
 ### Markdown
 

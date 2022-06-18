@@ -18,7 +18,7 @@ CalEnviroScreen has been updated to CalEnviroScreen 4.0 since this map has been 
 
 This map describes cumulative impacts as "a technical term to describe the lived reality in many low-income communities and communities of color." These impacts include economic and social stress and well as pollution burden.
 
-<embed type="application/x-google-chrome-pdf" src="chrome-extension://mhjfbmdgcfjbbpaeojofohoefgiehjai/4b802957-fc18-43d1-ba07-407fb81c078e" original-url="https://caleja.org/wp-content/uploads/2012/09/EJSM-statewide-CI-maps-IMPROVED.pdf" background-color="4283586137" javascript="allow" full-frame="">
+<img width="960" height="636" alt="image" src="Untitled_files/Image_001.png">
 
 ```markdown
 Syntax highlighted code block

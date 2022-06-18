@@ -22,10 +22,15 @@ This map describes cumulative impacts as "a technical term to describe the lived
 Source: CEJA
 
 This tool was made in 2012, and has inspired many tools that have come along afterwards including ones made for future versions of CalEnviroScreen.
-I really like that this tool goes really in depth into hazards down to the street level. 
+I really like that this tool goes really in depth into hazards down to the street level. The map above is of Downtown Oakland going into East Oakland. This area has a lot of missing data, but overall it is seen that the cumulative impact in the area is high along the Oakland Flats, especially near the highway. It is also seen that the Oakland Hills has less of a cumulative impact score.
+
 
 ![image](https://user-images.githubusercontent.com/89550308/174424613-12947729-9a2b-4502-8896-1e0168c7ebcf.png)
 Source: CEJA
+
+The map above shows 
+
+
 
 ```markdown
 Syntax highlighted code block

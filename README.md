@@ -30,6 +30,8 @@ Source: CEJA
 
 The map above shows deep East Oakland off of Hegenberger. I have a personal connection to the area as I lived there right be Coliseum BART Station. The cumulative impact tool is great for maybe beginning to narrowdown some areas that need intervention, but I believe that this tool also misses a lot of local contexts and can sometimes seem minimizing to the communities that suffer from the highest scores of cumulative impact.
 
+Also since it's so brief and covers so many different issues (like housing insecurity, pollution, etc.) it is difficult to see what problems need to be tackled exactly in the area. Each community has different needs and stories, even from block to another block.
+
 I believe local contect matters and that cumulative impact tools sometimes can seem daunting to not only planners, but community members themselves.
 
 The quantifying of suffering is a bit dark. 
@@ -38,6 +40,13 @@ The quantifying of suffering without an intervention strategy/method is even dar
 
 ### Mapping for Environmental Justice
 
+The cumulative impact mapping tool was a tool that can begin to narrow areas that need environmental justice interventions. Mapping for environmental justice interventions is something that can and will look different.
+
+Environmental justice interventions need to be community based and relevant.
+
+For GIS and mapping tools to help communities make decisions, I believe there needs to be direction and a plan to advocate for. 
+
+Having an environmental justice lens 
 
 
 ```markdown

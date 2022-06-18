@@ -54,37 +54,26 @@ I believe that there should be optimism in mapping for environmental justice int
 
 ### Next Steps
 
-I will be creating a map that analyses the accessibility to green spaces in Oakland.
+I will be creating a map that analyzes the accessibility to green spaces in Oakland.
 
 Some missing parts of the cumulative impacts maps were about the actual built environment. How are the areas zoned? What is the history of this built environemnt? Where are the green spaces? How can communties intervene with cumulative impacts? Who _really_ are the people that live there (some local narratives)?
 
+For the map itself I want to use CalEnviroScreen 4.0, terrain layers, and also local knowledge. 
 
+For the local knowledge I will conduct a handful of interviews but also gather data from social media platforms.
 
+To find the quantifiable access to green spaces in Oakland I will use the Analysis tool in ArcGIS. I will summarrize the areas around green spaces by how accessible they are by walking. 
 
 ```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+The way to summarize this infor in ArcGIS requires me to: 
+1. Aggregate Points calculates statistics about points that fall within specified areas.
+2. Join Features transfers attributes from one layer or table to another based on spatial and attribute relationships.
+3. Summarize Nearby calculates statistics for features and their attributes that are within a specified distance.
+4. Summarize Within calculates statistics for area features and attributes that overlap each other.
+6. Summarize Center and Dispersion calculates central features and directional distributions.
 ```
+I hope to use local knowdledge in the areas connected to the green spaces as well as areas that are disconnected. 
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+Local knowledge is important to me in this project because I also want to know if even if residents are in walking distance do they have struggles accessing the park and how we can work to make it more accessible to people.
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/eligarcia1/EJ-Blog/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Thank you for reading the blog!
